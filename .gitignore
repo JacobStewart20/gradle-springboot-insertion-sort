@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.war
+*.nar
+*.war
+*.zip
+*.tar.gz
+*.rar
+.gradle/
+build/
+bin/**
+/bin
+.settings
